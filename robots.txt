@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://prakhar-ai.github.io/newwebsite/sitemap.xml
+Sitemap: https://prakhar-ai.github.io/newwebsit/sitemap.xml
